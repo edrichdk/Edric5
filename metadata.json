@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of keeko chat",
+  "description": "A collaborative group chat platform with integrated project management, task tracking, and deadline countdowns.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
